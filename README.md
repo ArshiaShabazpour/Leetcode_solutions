@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0274-h-index) |
 ## Hash Table
 |  |
@@ -86,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
