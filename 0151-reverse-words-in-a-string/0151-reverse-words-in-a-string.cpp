@@ -9,7 +9,7 @@ public:
             if (s[i] != ' ') {
                 buffer += s[i];
             } else if (!buffer.empty()) {
-                reverse(buffer.begin(), buffer.end());  // reverse the current buffered word
+                reverse(buffer.begin(), buffer.end());  
                 words.push_back(buffer);
                 buffer.clear();
             }
