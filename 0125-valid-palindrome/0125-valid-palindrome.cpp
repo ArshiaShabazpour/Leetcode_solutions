@@ -7,10 +7,10 @@ public:
                 filtered += tolower(c);
             }
         }
-        
+
         int left = 0;
         int right = filtered.size() - 1;
-        
+
         while (left < right) {
             if (filtered[left] != filtered[right]) {
                 return false;
@@ -18,6 +18,7 @@ public:
             left++;
             right--;
         }
-        return true;
+
+        return true;        
     }
 };
