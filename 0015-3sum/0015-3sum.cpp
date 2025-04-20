@@ -11,7 +11,7 @@ public:
             
             int j = i + 1;
             int k = nums.size() - 1;
-
+            if (nums[i] > 0) break;
             while (j < k) {
                 int total = nums[i] + nums[j] + nums[k];
 
