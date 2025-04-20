@@ -17,16 +17,10 @@ public:
                 }
             }
             sum += nums[left];
-            cout<<"before" <<endl;
-            cout<< left <<endl; 
-            cout<<right<<endl;
             while(sum- nums[right]>=target){
                 sum = sum- nums[right];
                 right++;
             }
-            cout<<"after"<<endl;
-            cout<<left <<endl;
-            cout<<right <<endl;
             if(sum>=target){
 
                 if(size !=0){
