@@ -7,11 +7,10 @@ public:
 
         for (int r = 0; r < 9; ++r) {
             for (int c = 0; c < 9; ++c) {
-                if (board[r][c] == '.') {
+                char value = board[r][c];
+                if (value == '.') {
                     continue;
                 }
-
-                char value = board[r][c];
                 int boxIndex = (r / 3) * 3 + (c / 3);
 
             if (rows[r].count(value) || cols[c].count(value) || boxes[boxIndex].count(value)) {
