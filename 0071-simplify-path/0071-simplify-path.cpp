@@ -12,7 +12,9 @@ public:
             string comp = path.substr(start, i - start);
             
             if (comp == ".") {
-            } else if (comp == "..") {
+                continue;
+            } 
+            else if (comp == "..") {
                 if (!st.empty()) {
                     st.pop_back();
                 }
