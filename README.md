@@ -13,6 +13,7 @@
 | [0036-valid-sudoku](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0045-jump-game-ii) |
+| [0046-permutations](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0054-spiral-matrix) |
@@ -217,5 +218,6 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0046-permutations](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0077-combinations) |
 <!---LeetCode Topics End-->
