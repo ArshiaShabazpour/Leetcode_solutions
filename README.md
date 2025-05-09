@@ -23,6 +23,7 @@
 | [0057-insert-interval](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -154,6 +155,7 @@
 | [0068-text-justification](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -213,6 +215,7 @@
 | [0048-rotate-image](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0079-word-search) |
 ## Union Find
 |  |
 | ------- |
@@ -226,4 +229,9 @@
 | [0046-permutations](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0046-permutations) |
 | [0052-n-queens-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
