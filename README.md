@@ -73,6 +73,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0189-rotate-array) |
@@ -85,6 +86,7 @@
 | [0049-group-anagrams](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0274-h-index) |
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0148-sort-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0148-sort-list) |
 ## Math
 |  |
 | ------- |
@@ -112,6 +115,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -234,4 +238,8 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0079-word-search) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
