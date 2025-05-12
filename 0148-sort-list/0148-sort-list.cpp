@@ -1,66 +1,64 @@
-							// \U0001f609\U0001f609\U0001f609\U0001f609Please upvote if it helps \U0001f609\U0001f609\U0001f609\U0001f609
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
-    ListNode* sortList(ListNode* head) {
-        if(head == NULL || head ->next == NULL)
-            return head;
-        
-        
-        ListNode *temp = NULL;
-        ListNode *slow = head;
-        ListNode *fast = head;
-        
-        while(fast !=  NULL && fast -> next != NULL)
-        {
-            temp = slow;
-            slow = slow->next;         
-            fast = fast ->next ->next; 
-            
-        }   
-        temp -> next = NULL;           
-        
-        ListNode* l1 = sortList(head);    
-        ListNode* l2 = sortList(slow);    
-        
-        return mergelist(l1, l2);         
-            
+    // Merge two sorted linked lists
+    ListNode* mergeSortedLists(ListNode* left, ListNode* right) {
+        ListNode dummy(-1);
+        ListNode* current = &dummy;
+
+        while (left && right) {
+            if (left->val < right->val) {
+                current->next = left;
+                left = left->next;
+            } else {
+                current->next = right;
+                right = right->next;
+            }
+            current = current->next;
+        }
+
+        // Attach the remaining nodes
+        current->next = (left) ? left : right;
+
+        return dummy.next;
     }
-    
-    ListNode* mergelist(ListNode *l1, ListNode *l2)
-    {
-        ListNode *ptr = new ListNode(0);
-        ListNode *curr = ptr;
-        
-        while(l1 != NULL && l2 != NULL)
-        {
-            if(l1->val <= l2->val)
-            {
-                curr -> next = l1;
-                l1 = l1 -> next;
-            }
-            else
-            {
-                curr -> next = l2;
-                l2 = l2 -> next;
-            }
-        
-        curr = curr ->next;
-        
+
+    // Find the middle node of the list (for splitting)
+    ListNode* findMiddle(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        while (fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        
-        
-        if(l1 != NULL)
-        {
-            curr -> next = l1;
-            l1 = l1->next;
-        }
-        
-        if(l2 != NULL)
-        {
-            curr -> next = l2;
-            l2 = l2 ->next;
-        }
-        
-        return ptr->next;
+        return slow;
+    }
+
+    // Main sort function using merge sort
+    ListNode* sortList(ListNode* head) {
+        if (!head || !head->next) return head;
+
+        // Split the list into two halves
+        ListNode* mid = findMiddle(head);
+        ListNode* left = head;
+        ListNode* right = mid->next;
+        mid->next = nullptr;
+
+        // Recursively sort each half
+        left = sortList(left);
+        right = sortList(right);
+
+        // Merge the two sorted halves
+        return mergeSortedLists(left, right);
     }
 };
