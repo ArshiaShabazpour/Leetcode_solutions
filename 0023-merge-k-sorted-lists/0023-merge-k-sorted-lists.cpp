@@ -1,38 +1,45 @@
+/**
+ * Definition for singly-linked list.
+ * struct ListNode {
+ *     int val;
+ *     ListNode *next;
+ *     ListNode() : val(0), next(nullptr) {}
+ *     ListNode(int x) : val(x), next(nullptr) {}
+ *     ListNode(int x, ListNode *next) : val(x), next(next) {}
+ * };
+ */
 class Solution {
 public:
+    struct Compare {
+        bool operator()(ListNode* a, ListNode* b) {
+            return a->val > b->val; // min-heap: smaller value has higher priority
+        }
+    };
+
     ListNode* mergeKLists(vector<ListNode*>& lists) {
-        if (lists.empty()) {
-            return nullptr;
-        }
+        priority_queue<ListNode*, vector<ListNode*>, Compare> minHeap;
 
-        while (lists.size() > 1) {
-            ListNode* l1 = lists.front();
-            lists.erase(lists.begin()); 
-            ListNode* l2 = lists.front();
-            lists.erase(lists.begin()); 
-            lists.push_back(mergeLists(l1, l2));
-        }
-
-        return lists.front(); 
-    }
-
-private:
-    ListNode* mergeLists(ListNode* l1, ListNode* l2) {
-        ListNode dummy;
-        ListNode* node = &dummy;
-
-        while (l1 && l2) {
-            if (l1->val > l2->val) {
-                node->next = l2;
-                l2 = l2->next;
-            } else {
-                node->next = l1;
-                l1 = l1->next;
+        for (ListNode* node : lists) {
+            if (node != nullptr) {
+                minHeap.push(node);
             }
-            node = node->next;
         }
 
-        node->next = l1 ? l1 : l2;
-        return dummy.next;
+        ListNode* dummy = new ListNode(0);
+        ListNode* tail = dummy;
+
+        while (!minHeap.empty()) {
+            ListNode* smallest = minHeap.top();
+            minHeap.pop();
+
+            tail->next = smallest;
+            tail = tail->next;
+
+            if (smallest->next != nullptr) {
+                minHeap.push(smallest->next);
+            }
+        }
+
+        return dummy->next;
     }
 };
