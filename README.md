@@ -66,6 +66,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0015-3sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0148-sort-list) |
 ## Math
