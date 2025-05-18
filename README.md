@@ -74,6 +74,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0042-trapping-rain-water](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
@@ -102,6 +103,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0023-merge-k-sorted-lists](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0092-reverse-linked-list-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
