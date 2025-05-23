@@ -1,34 +1,35 @@
 class Solution {
 public:
     vector<int> searchRange(vector<int>& nums, int target) {
-        vector<int> pos{-1, -1};
-        int n = nums.size();
-        if (n == 0) return pos;
+        vector<int> result = {-1, -1};
+        int left = binarySearch(nums, target, true);
+        int right = binarySearch(nums, target, false);
+        result[0] = left;
+        result[1] = right;
+        return result;        
+    }
 
-        int left = 0, right = n - 1;
+    int binarySearch(vector<int>& nums, int target, bool isSearchingLeft) {
+        int left = 0;
+        int right = nums.size() - 1;
+        int idx = -1;
+        
         while (left <= right) {
             int mid = left + (right - left) / 2;
-            if (nums[mid] == target) {
-                pos[0] = pos[1] = mid;
-                int i = mid - 1;
-                while (i >= 0 && nums[i] == target) {
-                    pos[0] = i;
-                    --i;
-                }
-                i = mid + 1;
-                while (i < n && nums[i] == target) {
-                    pos[1] = i;
-                    ++i;
-                }
-                break;  
-            }
-            else if (nums[mid] < target) {
-                left = mid + 1;
-            }
-            else {
+            
+            if (nums[mid] > target) {
                 right = mid - 1;
+            } else if (nums[mid] < target) {
+                left = mid + 1;
+            } else {
+                idx = mid;
+                if (isSearchingLeft) {
+                    right = mid - 1;
+                } else {
+                    left = mid + 1;
+                }
             }
         }
-        return pos;
-    }
+        return idx;
+    }    
 };
