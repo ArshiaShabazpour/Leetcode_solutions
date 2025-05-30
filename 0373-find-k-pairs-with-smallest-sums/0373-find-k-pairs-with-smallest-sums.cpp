@@ -29,6 +29,6 @@ public:
             }
         }
 
-        return std::move(res);
+        return res;
     }
 };
