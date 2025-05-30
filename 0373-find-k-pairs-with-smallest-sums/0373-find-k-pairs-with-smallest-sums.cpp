@@ -14,7 +14,7 @@ public:
         auto cmp = [](const T &a, const T &b) {
             return get<0>(a) > get<0>(b);
         };
-        priority_queue<T, vector<T>, decltype(cmp)> pq(cmp);
+        priority_queue<T, vector<T>, decltype(cmp)> pq;
 
         for (int i = 0; i < n1 && i < k; ++i) {
             pq.emplace(nums1[i] + nums2[0], i, 0);
