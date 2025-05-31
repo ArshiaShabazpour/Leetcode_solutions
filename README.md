@@ -137,6 +137,7 @@
 | [0048-rotate-image](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0066-plus-one) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0172-factorial-trailing-zeroes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0202-happy-number) |
 ## Recursion
