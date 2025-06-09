@@ -163,6 +163,7 @@
 | [0053-maximum-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Counting
@@ -343,4 +344,5 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0067-add-binary) |
+| [0190-reverse-bits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0190-reverse-bits) |
 <!---LeetCode Topics End-->
