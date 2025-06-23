@@ -328,6 +328,7 @@
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0079-word-search) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -360,6 +361,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0322-coin-change](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0322-coin-change) |
 ## Bit Manipulation
 |  |
@@ -370,4 +372,12 @@
 | [0190-reverse-bits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
