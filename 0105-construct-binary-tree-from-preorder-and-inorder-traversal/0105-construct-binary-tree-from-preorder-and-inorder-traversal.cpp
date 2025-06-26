@@ -1,30 +1,19 @@
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& preorder, vector<int>& inorder) {
-        return build(preorder, inorder);
+        int rootIdx = 0;
+        return build(preorder, inorder, rootIdx, 0, inorder.size()-1);
     }
-
-private:
-    TreeNode* build(vector<int> preorder, vector<int> inorder) {
-        if (preorder.empty() || inorder.empty()) return nullptr;
-
-        int rootVal = preorder[0];
-        TreeNode* root = new TreeNode(rootVal);
-
-        int rootIndexInInorder = 0;
-        while (inorder[rootIndexInInorder] != rootVal) {
-            ++rootIndexInInorder;
-        }
-
-        vector<int> leftInorder(inorder.begin(), inorder.begin() + rootIndexInInorder);
-        vector<int> rightInorder(inorder.begin() + rootIndexInInorder + 1, inorder.end());
-
-        vector<int> leftPreorder(preorder.begin() + 1, preorder.begin() + 1 + leftInorder.size());
-        vector<int> rightPreorder(preorder.begin() + 1 + leftInorder.size(), preorder.end());
-
-        root->left = build(leftPreorder, leftInorder);
-        root->right = build(rightPreorder, rightInorder);
-
-        return root;
+    
+    TreeNode* build(vector<int>& preorder, vector<int>& inorder, int& rootIdx, int left, int right) {
+        if (left > right) return NULL;
+        int pivot = left;  // find the root from inorder
+        while(inorder[pivot] != preorder[rootIdx]) pivot++;
+        
+        rootIdx++;
+        TreeNode* newNode = new TreeNode(inorder[pivot]);
+        newNode->left = build(preorder, inorder, rootIdx, left, pivot-1);
+        newNode->right = build(preorder, inorder, rootIdx, pivot+1, right);
+        return newNode;
     }
 };
