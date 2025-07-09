@@ -346,6 +346,7 @@
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0226-invert-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Merge Sort
 |  |
 | ------- |
@@ -409,6 +410,7 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -423,4 +425,5 @@
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0222-count-complete-tree-nodes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
