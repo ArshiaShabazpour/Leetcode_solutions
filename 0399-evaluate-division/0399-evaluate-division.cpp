@@ -9,16 +9,13 @@ public:
         if(adjList.find(startNode) == adjList.end() || adjList.find (endNode) == adjList.end()) {
             return false;
         }
-        
         if(startNode == endNode and adjList.find(startNode)!=adjList.end()) {
             queryAns = runningProduct;
             return true;
             
         }
-        
         bool tempAns = false;
         visited[startNode] = true;
-        
         for(int i = 0; i < adjList[startNode].size(); i++){
             if(!visited[adjList[startNode][i].first]){
                 tempAns = dfs(adjList[startNode][i].first, endNode, runningProduct*adjList[startNode][i].second);
