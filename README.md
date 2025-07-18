@@ -64,6 +64,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
+| [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
@@ -253,6 +254,7 @@
 | [0242-valid-anagram](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 ## Counting Sort
 |  |
 | ------- |
@@ -330,6 +332,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0200-number-of-islands) |
+| [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 ## Backtracking
 |  |
 | ------- |
@@ -359,6 +362,7 @@
 | [0226-invert-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Merge Sort
@@ -405,6 +409,7 @@
 | [0200-number-of-islands](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Bit Manipulation
@@ -470,4 +475,12 @@
 | [0099-recover-binary-search-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0099-recover-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
+## Graph
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
