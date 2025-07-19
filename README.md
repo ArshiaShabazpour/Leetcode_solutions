@@ -67,6 +67,7 @@
 | [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
+| [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 ## Hash Table
 |  |
@@ -326,6 +327,7 @@
 | [0130-surrounded-regions](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0221-maximal-square) |
+| [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 ## Union Find
 |  |
 | ------- |
@@ -416,6 +418,7 @@
 | [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 ## Bit Manipulation
 |  |
 | ------- |
