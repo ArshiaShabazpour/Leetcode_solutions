@@ -12,7 +12,7 @@ public:
             for (int i = 1; i <= 6 && x + i <= n * n; i++) {
                 int t = x + i, row = (t - 1) / n, col = (t - 1) % n;
                 int v = board[n - 1 - row][row % 2 ? n - 1 - col : col];
-                int y = v > 0 ? v : t; // follow ladder / snake if present
+                int y = v > 0 ? v : t; 
                 if (y == n * n)
                     return min_rolls[x] + 1;
                 if (min_rolls[y] == -1) {
