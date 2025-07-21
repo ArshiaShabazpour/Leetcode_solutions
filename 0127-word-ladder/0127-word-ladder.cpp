@@ -1,32 +1,40 @@
 class Solution {
 public:
     int ladderLength(string beginWord, string endWord, vector<string>& wordList) {
-        unordered_set<string> dict(wordList.begin(), wordList.end());
-        if (!dict.count(endWord)) return 0;
+        unordered_set<string> wordSet(wordList.begin(), wordList.end());
+        if (wordSet.find(endWord) == wordSet.end()) return 0;
 
-        queue<pair<string,int>> q;
-        q.push({beginWord, 1});
-        unordered_set<string> visited;
-        visited.insert(beginWord);
+        unordered_set<string> beginSet{beginWord};
+        unordered_set<string> endSet{endWord};
+        int steps = 1;
 
-        while (!q.empty()) {
-            auto [word, dist] = q.front(); q.pop();
-            if (word == endWord) return dist;
+        while (!beginSet.empty() && !endSet.empty()) {
+            if (beginSet.size() > endSet.size())
+                swap(beginSet, endSet);
 
-            string next = word;
-            for (int i = 0; i < (int)word.size(); ++i) {
-                char orig = next[i];
-                for (char c = 'a'; c <= 'z'; ++c) {
-                    if (c == orig) continue;
-                    next[i] = c;
-                    if (dict.count(next) && !visited.count(next)) {
-                        visited.insert(next);
-                        q.push({next, dist + 1});
+            unordered_set<string> nextSet;
+
+            for (const string& word : beginSet) {
+                string temp = word;
+                for (int i = 0; i < temp.size(); ++i) {
+                    char originalChar = temp[i];
+                    for (char c = 'a'; c <= 'z'; ++c) {
+                        temp[i] = c;
+                        if (endSet.find(temp) != endSet.end())
+                            return steps + 1;
+                        if (wordSet.find(temp) != wordSet.end()) {
+                            nextSet.insert(temp);
+                            wordSet.erase(temp);
+                        }
                     }
+                    temp[i] = originalChar; 
                 }
-                next[i] = orig;
             }
+
+            beginSet = nextSet;
+            steps++;
         }
+
         return 0;
     }
 };
