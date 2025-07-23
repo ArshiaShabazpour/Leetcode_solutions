@@ -63,6 +63,7 @@
 | [0228-summary-ranges](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0274-h-index) |
+| [0289-game-of-life](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0300-longest-increasing-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
@@ -302,6 +303,7 @@
 | [0054-spiral-matrix](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0289-game-of-life) |
 ## Binary Search
 |  |
 | ------- |
@@ -337,6 +339,7 @@
 | [0130-surrounded-regions](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0221-maximal-square) |
+| [0289-game-of-life](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 ## Union Find
 |  |
