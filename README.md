@@ -172,12 +172,14 @@
 | [0172-factorial-trailing-zeroes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0202-happy-number) |
+| [0224-basic-calculator](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0224-basic-calculator) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0050-powx-n) |
+| [0224-basic-calculator](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0224-basic-calculator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -261,6 +263,7 @@
 | [0139-word-break](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0383-ransom-note) |
@@ -289,6 +292,7 @@
 | [0071-simplify-path](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0071-simplify-path) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0224-basic-calculator](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0224-basic-calculator) |
 ## Monotonic Stack
 |  |
 | ------- |
