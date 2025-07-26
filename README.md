@@ -219,6 +219,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0139-word-break](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0139-word-break) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0198-house-robber](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0198-house-robber) |
@@ -376,6 +377,7 @@
 | [0112-path-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
@@ -465,6 +467,7 @@
 | [0112-path-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
@@ -488,6 +491,7 @@
 | [0112-path-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0112-path-sum) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0199-binary-tree-right-side-view](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
