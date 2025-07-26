@@ -12,14 +12,11 @@ private:
             return 0;
         }
 
-        // Recursively compute the maximum sum of the left and right subtree paths.
         int leftSum = max(0, dfs(node->left, res));
         int rightSum = max(0, dfs(node->right, res));
 
-        // Update the maximum path sum encountered so far (with split).
         res = max(res, leftSum + rightSum + node->val);
 
-        // Return the maximum sum of the path (without split).
         return max(leftSum, rightSum) + node->val;
     }
 };
