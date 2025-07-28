@@ -72,6 +72,7 @@
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 ## Hash Table
 |  |
@@ -366,6 +367,7 @@
 | [0052-n-queens-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0079-word-search) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -453,6 +455,7 @@
 | [0191-number-of-1-bits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Tree
 |  |
 | ------- |
@@ -523,4 +526,8 @@
 | ------- |
 | [0207-course-schedule](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 <!---LeetCode Topics End-->
