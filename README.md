@@ -74,6 +74,7 @@
 | [0954-maximum-sum-circular-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Hash Table
 |  |
 | ------- |
@@ -327,6 +328,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sliding Window
 |  |
 | ------- |
@@ -335,6 +337,7 @@
 | [0076-minimum-window-substring](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Matrix
 |  |
 | ------- |
@@ -456,6 +459,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Tree
 |  |
 | ------- |
