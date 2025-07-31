@@ -1,25 +1,20 @@
-#include <vector>
-#include <unordered_set>
-
 class Solution {
 public:
-    int subarrayBitwiseORs(std::vector<int>& arr) {
-        std::unordered_set<int> result_ors;
-        std::unordered_set<int> current_ors;
-
-        for (int x : arr) {
-            std::unordered_set<int> next_ors;
-            next_ors.insert(x);
-
-            for (int y : current_ors) {
-                next_ors.insert(x | y);
+    int subarrayBitwiseORs(vector<int>& arr) {
+        int sz=arr.size();
+        unordered_set<int> st;
+        for(int i=0;i<sz;i++)
+        {
+            st.insert(arr[i]);
+            for(int j=i-1;j>=0;j--)
+            {
+                if((arr[i]|arr[j])==arr[j])
+                    break;
+                arr[j]|=arr[i];
+                st.insert(arr[j]);
             }
-
-            result_ors.insert(next_ors.begin(), next_ors.end());
-            
-            current_ors = next_ors;
         }
-
-        return result_ors.size();
+        return st.size();
+       
     }
 };
