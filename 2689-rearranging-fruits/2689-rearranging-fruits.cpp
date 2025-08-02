@@ -1,53 +1,56 @@
 class Solution {
 public:
     long long minCost(vector<int>& basket1, vector<int>& basket2) {
-        unordered_map<int, int> freq, count1, count2;
-
-        for (int num : basket1) {
-            freq[num]++;
-            count1[num]++;
-        }
-        for (int num : basket2) {
-            freq[num]++;
-            count2[num]++;
-        }
-
-        for (auto& [num, count] : freq) {
-            if (count % 2 != 0) return -1;
-        }
-
-        vector<int> toSwap1, toSwap2;
-        int minElem = INT_MAX;
-
-        for (auto& [num, total] : freq) {
-            int half = total / 2;
-            int diff1 = count1[num] - half;
-            int diff2 = count2[num] - half;
-
-            if (diff1 > 0) {
-                for (int i = 0; i < diff1; ++i)
-                    toSwap1.push_back(num);
+        int n = basket1.size();
+        auto & u = basket1;
+        auto & w = basket2;
+        sort(u.begin(), u.end());
+        sort(w.begin(), w.end());
+        int a = min(u[0], w[0]);
+        a <<= 1;
+        int i, j, k, l;
+        i = j = k = l = 0;
+        while(i<n && j<n)
+        {
+            if (u[i] == w[j])
+            {
+                i++;
+                j++;
             }
-
-            if (diff2 > 0) {
-                for (int i = 0; i < diff2; ++i)
-                    toSwap2.push_back(num);
+            else if (u[i] < w[j])
+            {
+                if (i == n-1 || u[i] != u[i+1])
+                    return -1;
+                u[k++] = u[i];
+                i += 2;
             }
-
-            minElem = min(minElem, num);
+            else
+            {
+                if (j == n-1 || w[j] != w[j+1])
+                    return -1;
+                w[l++] = w[j];
+                j += 2;
+            }
         }
-
-        sort(toSwap1.begin(), toSwap1.end());
-        sort(toSwap2.rbegin(), toSwap2.rend());  
-
-        long long cost = 0;
-        int n = toSwap1.size();
-        for (int i = 0; i < n; ++i) {
-            int a = toSwap1[i];
-            int b = toSwap2[i];
-            cost += min({a, b, 2 * minElem});
+        while (i<n)
+        {
+            if (u[i] != u[i+1])
+                return -1;
+            u[k++] = u[i];
+            i += 2;
         }
-
-        return cost;
+        while (j<n)
+        {
+            if (w[j] != w[j+1])
+                return -1;
+            w[l++] = w[j];
+            j += 2;
+        }
+        long long rt = 0;
+        for (i=0; i<k; i++)
+        {
+            rt += min(min(u[i], w[k-1-i]), a);
+        }
+        return rt;
     }
 };
