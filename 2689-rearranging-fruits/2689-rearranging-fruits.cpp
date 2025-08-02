@@ -49,7 +49,7 @@ public:
         long long rt = 0;
         for (i=0; i<k; i++)
         {
-            rt += min(min(u[i], w[k-1-i]), a);
+            rt += min(min(u[i], w[l-1-i]), a);
         }
         return rt;
     }
