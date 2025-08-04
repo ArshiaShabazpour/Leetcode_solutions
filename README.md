@@ -72,6 +72,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
@@ -108,6 +109,7 @@
 | [0290-word-pattern](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
 |  |
@@ -349,6 +351,7 @@
 | [0076-minimum-window-substring](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Matrix
