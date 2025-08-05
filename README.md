@@ -81,6 +81,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
+| [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -327,6 +328,7 @@
 | [0067-add-binary](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0289-game-of-life) |
+| [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -343,6 +345,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -556,4 +559,12 @@
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Segment Tree
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
+## Ordered Set
+|  |
+| ------- |
+| [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 <!---LeetCode Topics End-->
