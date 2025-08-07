@@ -5,7 +5,7 @@ public:
         int fruit1;
         int n = fruits.size();
         for (int i = 1; i < n - 1; ++i) {
-            int x = max(i, n - i);
+            int x = max(i * 1, n - i * 1);
             int y = max(i + 1, n - i - 1);
             fruits[n - 1][n - 1] += fruits[i][i];
             for (int j = y; j < n; ++j) {
