@@ -112,6 +112,7 @@
 | [0290-word-pattern](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0433-minimum-genetic-mutation](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
@@ -152,6 +153,7 @@
 | [0274-h-index](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
+| [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 ## Linked List
 |  |
@@ -191,6 +193,7 @@
 | [0224-basic-calculator](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0826-soup-servings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0826-soup-servings) |
+| [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 ## Recursion
 |  |
 | ------- |
@@ -219,6 +222,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0383-ransom-note) |
+| [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -564,6 +568,7 @@
 ## Enumeration
 |  |
 | ------- |
+| [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Brainteaser
 |  |
