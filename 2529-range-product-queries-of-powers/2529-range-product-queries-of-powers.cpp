@@ -1,35 +1,20 @@
 class Solution {
 public:
-    const int mod = 1e9+7;
-
-    vector<int> productQueries(int n, vector<vector<int>>& queries) {
-        vector<int> p2, res;
-        int i = 0, k = 0;
+    vector<int> productQueries(int n, const vector<vector<int>>& queries) {
+        constexpr int MOD = 1000000007;
+        vector prefix {0};
         while (n) {
-            if (n & 1) {
-                p2.push_back(i);
-                if (k) p2[k] += p2[k - 1]; 
-                k++;
-            }
-            n >>= 1;
-            i++;
+            const int j = __builtin_ctz(n);
+            prefix.push_back(prefix.back() + j);
+            n -= 1 << j;
         }
-
-        for (auto &q : queries) {
-            int p = p2[q[1]] - (q[0] ? p2[q[0] - 1] : 0);
-            res.push_back(fastPow(2, p));
-        }
-        return res;
-    }
-
-private:
-    int fastPow(int base, int exp) {
-        int res = 1;
-        while (exp) {
-            if (exp & 1) res = (1LL * res * base) % mod;
-            base = (1LL * base * base) % mod;
-            exp >>= 1;
-        }
-        return res;
+        n = prefix.back();
+        vector ans {1}; ans.reserve(n);
+        for (int i = 1; i <= n; i++)
+            ans.push_back((ans.back() << 1) % MOD);
+        vector<int> ret; ret.reserve(queries.size());
+        for (const auto& q : queries)
+            ret.push_back(ans[prefix[q[1] + 1] - prefix[q[0]]]);
+        return ret;
     }
 };
