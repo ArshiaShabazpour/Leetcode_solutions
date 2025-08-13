@@ -193,6 +193,7 @@
 | [0202-happy-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 ## Recursion
@@ -204,6 +205,7 @@
 | [0050-powx-n](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0050-powx-n) |
 | [0224-basic-calculator](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
 | ------- |
