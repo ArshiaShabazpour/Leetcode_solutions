@@ -304,6 +304,7 @@
 | [0392-is-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Counting Sort
 |  |
 | ------- |
