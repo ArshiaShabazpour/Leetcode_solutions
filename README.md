@@ -194,6 +194,7 @@
 | [0224-basic-calculator](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 ## Recursion
@@ -206,6 +207,7 @@
 | [0224-basic-calculator](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0342-power-of-four) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -497,6 +499,7 @@
 | [0201-bitwise-and-of-numbers-range](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0222-count-complete-tree-nodes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
