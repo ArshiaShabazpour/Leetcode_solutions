@@ -196,6 +196,7 @@
 | [0326-power-of-three](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0826-soup-servings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1448-maximum-69-number) |
 ## Recursion
@@ -257,6 +258,7 @@
 | [0322-coin-change](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0826-soup-servings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
@@ -376,6 +378,7 @@
 | [0076-minimum-window-substring](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+| [0867-new-21-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
@@ -600,4 +603,5 @@
 |  |
 | ------- |
 | [0826-soup-servings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0826-soup-servings) |
+| [0867-new-21-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0867-new-21-game) |
 <!---LeetCode Topics End-->
