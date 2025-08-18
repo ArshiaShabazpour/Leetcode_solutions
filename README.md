@@ -71,6 +71,7 @@
 | [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
+| [0679-24-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
@@ -195,6 +196,7 @@
 | [0231-power-of-two](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0342-power-of-four) |
+| [0679-24-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
@@ -415,6 +417,7 @@
 | [0052-n-queens-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0052-n-queens-ii) |
 | [0077-combinations](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0079-word-search) |
+| [0679-24-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0679-24-game) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Depth-First Search
 |  |
