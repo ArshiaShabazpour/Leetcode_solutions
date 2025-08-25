@@ -70,6 +70,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0498-diagonal-traverse](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [0679-24-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -364,6 +365,7 @@
 | [0067-add-binary](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -410,6 +412,7 @@
 | [0200-number-of-islands](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0221-maximal-square) |
 | [0289-game-of-life](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0289-game-of-life) |
+| [0498-diagonal-traverse](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
