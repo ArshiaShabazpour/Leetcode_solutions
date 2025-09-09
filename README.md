@@ -281,6 +281,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
@@ -375,6 +376,7 @@
 | [0068-text-justification](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0068-text-justification) |
 | [0289-game-of-life](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
@@ -489,6 +491,7 @@
 |  |
 | ------- |
 | [0954-maximum-sum-circular-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
