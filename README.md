@@ -81,6 +81,7 @@
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -126,6 +127,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 ## Two Pointers
 |  |
@@ -296,6 +298,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [1448-maximum-69-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1448-maximum-69-number) |
+| [1834-minimum-number-of-people-to-teach](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 ## String
