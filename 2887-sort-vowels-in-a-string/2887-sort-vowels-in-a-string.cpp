@@ -1,30 +1,43 @@
 class Solution {
 public:
     string sortVowels(string s) {
-        unordered_map<char, int> vowels = {
-            {'A',0},{'E',0},{'I',0},{'O',0},{'U',0},
-            {'a',0},{'e',0},{'i',0},{'o',0},{'u',0}
-        };
-
-        for (char c : s) {
-            if (vowels.find(c) != vowels.end()) {
-                vowels[c]++;
+        vector<int>lower(26,0);
+        vector<int>upper(26,0);
+        
+        for(int i = 0; i<s.size(); i++){
+            if(s[i]=='a'|| s[i]=='e'|| s[i]=='i'|| s[i]=='o'|| s[i]=='u'){
+                lower[s[i]-'a']++;
+                s[i]='#';
+            }
+            else if(s[i]=='A'|| s[i]=='E'|| s[i]=='I'|| s[i]=='O'|| s[i]=='U'){
+                upper[s[i]-'A']++;
+                s[i]='#';
             }
         }
-
-        vector<char> keys = {'A','E','I','O','U','a','e','i','o','u'};
-        
-        int k = 0;
-
-        for (int i = 0; i < s.size(); i++) {
-            if (vowels.find(s[i]) != vowels.end()) {
-                while (vowels[keys[k]] == 0) {
-                    k++;
-                }
-                s[i] = keys[k];
-                vowels[keys[k]]--;
+        string v;
+        for(int i = 0; i < 26; i++){
+            char c = 'A' + i;
+            while(upper[i]){
+                v += c;
+                upper[i]--;
+            }
+        }
+        for(int i = 0; i < 26; i++){
+            char c = 'a' + i;
+            while(lower[i]){
+                v += c;
+                lower[i]--;
+            }
+        }
+    
+        int second = 0;
+        for (int i = 0; i < s.size(); i++){
+            if(s[i]=='#'){
+                s[i]=v[second];
+                second++;          
             }
         }
         return s;
+
     }
 };
