@@ -130,6 +130,7 @@
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
 | ------- |
@@ -252,6 +253,7 @@
 | [0169-majority-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0383-ransom-note) |
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -342,6 +344,7 @@
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2887-sort-vowels-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting Sort
 |  |
 | ------- |
