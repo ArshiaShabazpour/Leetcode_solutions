@@ -86,6 +86,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
+| [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -129,6 +130,7 @@
 | [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
+| [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
@@ -342,6 +344,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -499,6 +502,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [1917-maximum-average-pass-ratio](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
+| [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 ## Queue
 |  |
 | ------- |
@@ -648,6 +652,7 @@
 ## Ordered Set
 |  |
 | ------- |
+| [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
 ## Probability and Statistics
@@ -659,4 +664,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+## Design
+|  |
+| ------- |
+| [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 <!---LeetCode Topics End-->
