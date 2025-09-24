@@ -118,6 +118,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0169-majority-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
@@ -209,6 +210,7 @@
 | [0069-sqrtx](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0172-factorial-trailing-zeroes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0202-happy-number) |
@@ -337,6 +339,7 @@
 | [0139-word-break](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0165-compare-version-numbers) |
+| [0166-fraction-to-recurring-decimal](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0166-fraction-to-recurring-decimal) |
 | [0205-isomorphic-strings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0242-valid-anagram) |
