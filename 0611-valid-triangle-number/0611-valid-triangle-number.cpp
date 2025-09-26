@@ -1,28 +1,20 @@
 class Solution {
 public:
-    int triangleNumber(vector<int>& nums) {
-        int n=nums.size();
-        if(n<3)return 0;
-        int count=0;
+    static int triangleNumber(vector<int>& nums) {
         sort(nums.begin(), nums.end());
-
-        for(int i=n-1; i>1; i--){
-            int r=i-1;
-            int l=0;
+        int n=nums.size(), ans=0;
+        for(int i=2; i<n; i++){
+            int l=0, r=i-1;
             while(l<r){
-                int sum=nums[l]+nums[r];
-                if(sum>nums[i]){
-                    count+=(r-l);
-                    r--   ;
-                
-
-                }else{
-                   l++;
+                if(nums[l]+nums[r]>nums[i]){
+                    ans+=r-l;
+                    r--;
                 }
+                else l++;
             }
-
-    
         }
-        return count; 
+        return ans;
     }
 };
+
+
