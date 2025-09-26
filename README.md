@@ -72,6 +72,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0498-diagonal-traverse](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
+| [0611-valid-triangle-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0679-24-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
@@ -160,6 +161,7 @@
 | [0189-rotate-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0611-valid-triangle-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 ## Sorting
 |  |
 | ------- |
@@ -174,6 +176,7 @@
 | [0274-h-index](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
+| [0611-valid-triangle-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -308,6 +311,7 @@
 | [0135-candy](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
+| [0611-valid-triangle-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [1448-maximum-69-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
@@ -413,6 +417,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0611-valid-triangle-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
