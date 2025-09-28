@@ -74,6 +74,7 @@
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0679-24-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0679-24-game) |
+| [0830-largest-triangle-area](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0830-largest-triangle-area) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
 | [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
@@ -223,6 +224,7 @@
 | [0342-power-of-four](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0679-24-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0679-24-game) |
 | [0826-soup-servings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0826-soup-servings) |
+| [0830-largest-triangle-area](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -682,4 +684,8 @@
 | ------- |
 | [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3678-design-task-manager) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
