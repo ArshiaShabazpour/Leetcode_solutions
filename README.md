@@ -79,6 +79,7 @@
 | [0940-fruit-into-baskets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0940-fruit-into-baskets) |
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
+| [1018-largest-perimeter-triangle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -179,6 +180,7 @@
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
@@ -227,6 +229,7 @@
 | [0830-largest-triangle-area](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0830-largest-triangle-area) |
 | [0867-new-21-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
+| [1018-largest-perimeter-triangle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1448-maximum-69-number) |
@@ -314,6 +317,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [1018-largest-perimeter-triangle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1448-maximum-69-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1448-maximum-69-number) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
