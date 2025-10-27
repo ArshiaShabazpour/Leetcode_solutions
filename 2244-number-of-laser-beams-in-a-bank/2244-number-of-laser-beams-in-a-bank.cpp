@@ -5,8 +5,7 @@ public:
         for(auto& row: bank){
             int device=count(row.begin(), row.end(), '1');
             if (device>0){
-                ans+=device*prev;
-                prev=device;
+                ans+=exchange(prev,device)*device;
             }
         }
         return ans;
