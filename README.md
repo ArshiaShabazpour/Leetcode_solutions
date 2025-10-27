@@ -89,6 +89,7 @@
 | [1917-maximum-average-pass-ratio](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
@@ -238,6 +239,7 @@
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1448-maximum-69-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1448-maximum-69-number) |
 | [1642-water-bottles](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1642-water-bottles) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
@@ -366,6 +368,7 @@
 | [0433-minimum-genetic-mutation](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
@@ -468,6 +471,7 @@
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
