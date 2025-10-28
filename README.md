@@ -100,6 +100,7 @@
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -385,6 +386,7 @@
 | [0238-product-of-array-except-self](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Trie
 |  |
 | ------- |
@@ -420,6 +422,7 @@
 | [1642-water-bottles](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
+| [3616-make-array-elements-equal-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 ## Binary Search
 |  |
