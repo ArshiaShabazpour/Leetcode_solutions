@@ -244,6 +244,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3462-vowels-game-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 | [3830-find-closest-person](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3830-find-closest-person) |
 ## Recursion
 |  |
@@ -596,6 +597,7 @@
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Tree
 |  |
 | ------- |
