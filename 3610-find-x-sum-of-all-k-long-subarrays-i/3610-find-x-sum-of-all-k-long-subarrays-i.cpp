@@ -1,43 +1,48 @@
 class Solution {
 public:
-    using int2=pair<int, int>;
-    static int x_sum( const auto& freq, int k, int x){
-        auto freq2=freq;
-        sort(freq2.begin(), freq2.end(), greater<int2>());
-        int sum=0;
-        for (int i=0; i<x; i++){
-            auto [f, num]=freq2[i];
-            if (f==0) break;
-            sum+=num*f;
+    vector<int> findXSum(vector<int>& nums, int k, int x) {
+        int n = nums.size();
+        vector<int> freq(51, 0 );
+        vector<int> ans( n-k+1, 0 );
+        //different treatment for first subarray
+        for( int i = 0;i<k;i++)
+            freq[nums[i]]++;
+        priority_queue<pair<int,int>> pq;
+        for(int i = 0;i<=50;i++)
+        {
+            if( freq[i] > 0 )
+                pq.push( pair<int,int>(freq[i], i ) );
         }
-        return sum;
-    }
-    static vector<int> findXSum(vector<int>& nums, int k, int x) {
-        const int n=nums.size(), sz=n-k+1;
-        vector<int> ans(sz);
-        array<int2, 51> freq;
-        freq.fill({0, 0});
-        for(int r=0; r<k; r++){
-            int z=nums[r];
-            freq[z].second=z;
-            freq[z].first++;
+        pair<int,int> tmp;
+        int sm = 0;
+        for( int i = 0 ;i<x && pq.size();i++)
+        {
+            tmp = pq.top();
+            pq.pop();
+            sm += tmp.first*tmp.second;
         }
-        ans[0]=x_sum(freq, k, x);
-        for(int l=1, r=k; l<sz; l++, r++){
-            int L=nums[l-1], R=nums[r];
-            freq[L].first--;
-            freq[R].first++;
-            freq[R].second = R;
-            ans[l]=x_sum(freq, k, x);
+        ans[0] = sm;
+        //second subarray onwards
+        for( int i = 1; i<n-k+1;i++)
+        {
+            freq[nums[i-1]]--;
+            freq[nums[k+i-1]]++;
+            priority_queue<pair<int,int>> pqn;
+            for(int i = 0;i<=50;i++)
+            {
+                if( freq[i] > 0 )
+                    pqn.push( pair<int,int>(freq[i], i ) );
+            }
+            pair<int,int> tmp;
+            int sm = 0;
+            for( int i = 0 ;i<x && pqn.size();i++)
+            {
+                tmp = pqn.top();
+                pqn.pop();
+                sm += tmp.first*tmp.second;
+            }
+            ans[i] = sm;           
         }
         return ans;
     }
 };
-
-
-auto init = []() {
-    ios::sync_with_stdio(0);
-    cin.tie(0);
-    cout.tie(0);
-    return 'c';
-}();
