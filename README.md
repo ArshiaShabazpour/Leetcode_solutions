@@ -104,6 +104,7 @@
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -147,6 +148,7 @@
 | [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3678-design-task-manager) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -473,6 +475,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
 |  |
@@ -555,6 +558,7 @@
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [1917-maximum-average-pass-ratio](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
+| [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3678-design-task-manager) |
 ## Queue
