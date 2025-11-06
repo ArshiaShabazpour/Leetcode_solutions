@@ -111,6 +111,7 @@
 | [3748-sort-matrix-by-diagonals](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Hash Table
 |  |
 | ------- |
@@ -151,6 +152,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Two Pointers
 |  |
@@ -507,6 +509,7 @@
 | [0130-surrounded-regions](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
+| [3863-power-grid-maintenance](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Backtracking
 |  |
 | ------- |
@@ -544,6 +547,7 @@
 | [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
+| [3863-power-grid-maintenance](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Merge Sort
 |  |
 | ------- |
@@ -561,6 +565,7 @@
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3678-design-task-manager](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3678-design-task-manager) |
+| [3863-power-grid-maintenance](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Queue
 |  |
 | ------- |
@@ -602,6 +607,7 @@
 | [0530-minimum-absolute-difference-in-bst](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
+| [3863-power-grid-maintenance](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -682,6 +688,7 @@
 | [0207-course-schedule](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0210-course-schedule-ii) |
 | [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
+| [3863-power-grid-maintenance](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Shortest Path
 |  |
 | ------- |
@@ -715,6 +722,7 @@
 | [3678-design-task-manager](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3678-design-task-manager) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3863-power-grid-maintenance) |
 ## Probability and Statistics
 |  |
 | ------- |
