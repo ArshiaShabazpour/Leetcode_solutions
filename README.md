@@ -326,6 +326,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
@@ -584,6 +585,7 @@
 | ------- |
 | [0070-climbing-stairs](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0139-word-break) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -621,6 +623,7 @@
 | [0231-power-of-two](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
