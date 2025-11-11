@@ -70,6 +70,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0474-ones-and-zeroes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0498-diagonal-traverse](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0502-ipo](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0502-ipo) |
 | [0611-valid-triangle-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
@@ -320,6 +321,7 @@
 | [0300-longest-increasing-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0392-is-subsequence) |
+| [0474-ones-and-zeroes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [0826-soup-servings](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0867-new-21-game) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
@@ -389,6 +391,7 @@
 | [0392-is-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [0399-evaluate-division](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0399-evaluate-division) |
 | [0433-minimum-genetic-mutation](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0433-minimum-genetic-mutation) |
+| [0474-ones-and-zeroes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0474-ones-and-zeroes) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1700-minimum-time-to-make-rope-colorful) |
