@@ -101,6 +101,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2529-range-product-queries-of-powers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
@@ -417,6 +418,7 @@
 | [0238-product-of-array-except-self](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2529-range-product-queries-of-powers) |
+| [2625-increment-submatrices-by-one](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Trie
 |  |
@@ -515,6 +517,7 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2625-increment-submatrices-by-one](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3648-find-the-maximum-number-of-fruits-collected](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
