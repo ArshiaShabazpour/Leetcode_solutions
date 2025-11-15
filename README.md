@@ -405,6 +405,7 @@
 | [2429-design-a-food-rating-system](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2429-design-a-food-rating-system) |
 | [2887-sort-vowels-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
 | [3462-vowels-game-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3462-vowels-game-in-a-string) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Counting Sort
@@ -495,6 +496,7 @@
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 | [3592-find-x-sum-of-all-k-long-subarrays-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3592-find-x-sum-of-all-k-long-subarrays-ii) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Matrix
@@ -725,6 +727,7 @@
 | [0900-reordered-power-of-2](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0900-reordered-power-of-2) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3479-count-the-number-of-substrings-with-dominant-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3479-count-the-number-of-substrings-with-dominant-ones) |
 ## Brainteaser
 |  |
 | ------- |
