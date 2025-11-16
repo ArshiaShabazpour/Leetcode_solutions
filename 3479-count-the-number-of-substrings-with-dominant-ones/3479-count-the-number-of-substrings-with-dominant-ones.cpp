@@ -1,29 +1,22 @@
 class Solution {
 public:
     int numberOfSubstrings(string s) {
-        int n = s.size();
-        vector<int> pre(n + 1);
-        pre[0] = -1;
-        for (int i = 0; i < n; i++) {
-            if (i == 0 || (i > 0 && s[i - 1] == '0')) {
-                pre[i + 1] = i;
-            } else {
-                pre[i + 1] = pre[i];
+        vector<int> c1 = {0};
+        int counts[2] = {0, 0};
+        int ret = 0;
+        for (const char c : s) {
+            ++counts[c-'0'];
+            if (c == '0') c1.push_back(counts[1]);
+            ret += counts[1] - c1[counts[0]];
+            for (int c0 = counts[0] - 1; c0 >= 0; --c0) {
+                const int num0 = counts[0] - c0;
+                if (num0 * num0 > counts[1]) break;
+                const int hi = counts[1] - c1[c0];
+                const int lo = counts[1] - c1[c0 + 1];
+                if (hi < num0 * num0) continue;
+                else ret += max(0, hi - max(lo, num0 * num0) + 1);
             }
         }
-        int res = 0;
-        for (int i = 1; i <= n; i++) {
-            int cnt0 = s[i - 1] == '0';
-            int j = i;
-            while (j > 0 && cnt0 * cnt0 <= n) {
-                int cnt1 = (i - pre[j]) - cnt0;
-                if (cnt0 * cnt0 <= cnt1) {
-                    res += min(j - pre[j], cnt1 - cnt0 * cnt0 + 1);
-                }
-                j = pre[j];
-                cnt0++;
-            }
-        }
-        return res;
+        return ret;
     }
 };
