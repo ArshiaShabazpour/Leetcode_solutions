@@ -1,17 +1,18 @@
 class Solution {
+    int n;
+    vector<vector<int>> dp;
 public:
-    static int maxSumDivThree(vector<int>& nums) {
-        const int n=nums.size(), minus=-1e9;
-        int dp[2][3]={ {0, 0, 0}, {0, minus, minus}};
-        for(int i=0; i<n; i++){
-            const int x=nums[i];
-            for(int mod=0; mod<3; mod++){
-                int modPrev=mod-x%3; modPrev+=(-(modPrev<0)) & 3;
-                const int take=x+dp[(i+1)&1][modPrev];
-                const int skip=dp[(i+1)&1][mod];
-                dp[i&1][mod]=max(take, skip);
+    int maxSumDivThree(vector<int>& nums) {
+        int n = nums.size();
+        int dp[n + 1][3];
+        dp[0][0] = 1; dp[0][1] = dp[0][2] = 0;
+        for (int i = 1; i <= n; ++i) {
+            for (int m = 0; m < 3; ++m) {
+                int skip = dp[i - 1][m], pick = 0, x = dp[i - 1][(m + nums[i - 1]) % 3];
+                if (x) pick = nums[i - 1] + x;
+                dp[i][m] = max(pick, skip);
             }
         }
-        return max(0, dp[(n-1)&1][0]);
+        return dp[n][0] - 1;
     }
 };
