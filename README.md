@@ -83,6 +83,7 @@
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
 | [0954-maximum-sum-circular-subarray](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0954-maximum-sum-circular-subarray) |
 | [1018-largest-perimeter-triangle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -660,6 +661,7 @@
 | [0231-power-of-two](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0342-power-of-four) |
 | [0934-bitwise-ors-of-subarrays](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0934-bitwise-ors-of-subarrays) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
