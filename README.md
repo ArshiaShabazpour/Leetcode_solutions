@@ -111,6 +111,7 @@
 | [2625-increment-submatrices-by-one](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2625-increment-submatrices-by-one) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -219,6 +220,7 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
 | [2887-sort-vowels-in-a-string](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2887-sort-vowels-in-a-string) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3748-sort-matrix-by-diagonals](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3748-sort-matrix-by-diagonals) |
 ## Linked List
 |  |
@@ -378,6 +380,7 @@
 | [1834-minimum-number-of-people-to-teach](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1917-maximum-average-pass-ratio](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2689-rearranging-fruits) |
+| [3074-apple-redistribution-into-boxes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3074-apple-redistribution-into-boxes) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## String
