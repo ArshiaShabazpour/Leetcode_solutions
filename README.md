@@ -85,6 +85,7 @@
 | [1018-largest-perimeter-triangle](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -506,6 +507,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0222-count-complete-tree-nodes) |
 | [0300-longest-increasing-subsequence](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0611-valid-triangle-number](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0611-valid-triangle-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3790-fruits-into-baskets-ii](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/3790-fruits-into-baskets-ii) |
@@ -542,6 +544,7 @@
 | [0289-game-of-life](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0289-game-of-life) |
 | [0498-diagonal-traverse](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0498-diagonal-traverse) |
 | [0945-snakes-and-ladders](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/0945-snakes-and-ladders) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/1628-count-submatrices-with-all-ones) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/ArshiaShabazpour/Leetcode_solutions/tree/master/2244-number-of-laser-beams-in-a-bank) |
